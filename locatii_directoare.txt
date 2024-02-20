@@ -1,0 +1,6 @@
+D:\Filme,1
+D:\Poze,2
+E:\Filme,3
+C:\Poze,4
+C:\Muzica,5
+E:\Imagini,6
